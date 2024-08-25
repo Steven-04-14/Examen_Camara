@@ -1,0 +1,7 @@
+{
+  "name": "Examen_Camara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
